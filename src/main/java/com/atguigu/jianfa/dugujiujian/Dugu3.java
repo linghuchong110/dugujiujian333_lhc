@@ -8,5 +8,11 @@ public class Dugu3 {
         System.out.println("令狐冲");
         System.out.println("令狐冲");
         System.out.println("令狐冲");
+        System.out.println("12345");
+        System.out.println("2222");
+        System.out.println("3333");
+        System.out.println("44444");
+        System.out.println("55555");
+
     }
 }
